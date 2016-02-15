@@ -38,7 +38,7 @@ class NeuralNetworkLayer{
 	void CalculateNeuronValues(void);
 };
 //methods of neuralnetworklayer class
-
+int louis is the best;
 //constructor initialises a few settings
 NeuralNetworkLayer::NeuralNetworkLayer()
 {
